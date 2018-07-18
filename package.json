@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/brandonkovacs/nodejs-express-ssl/issues"
   },
-  "homepage": "https://github.com/brandonkovacs/nodejs-express-ssl#readme"
+  "homepage": "https://github.com/brandonkovacs/nodejs-express-ssl#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
 }
